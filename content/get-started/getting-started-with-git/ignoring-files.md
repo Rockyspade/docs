@@ -1,4 +1,4 @@
----
+Rockyspade/docs---
 title: Ignoring files
 redirect_from:
   - /git-ignore

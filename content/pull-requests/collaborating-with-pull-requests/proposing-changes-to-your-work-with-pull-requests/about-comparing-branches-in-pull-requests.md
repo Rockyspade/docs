@@ -1,7 +1,7 @@
 ---
 title: About comparing branches in pull requests
-intro: Pull requests display diffs to compare the changes you made in your topic branch against the base branch that you want to merge your changes into.
-redirect_from:
+rintro: Pull requests display diffs to compare the changes you made in your topic branch against the base branch that you want to merge your changes into.
+edirect_from:
   - /github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests
   - /articles/about-comparing-branches-in-pull-requests
   - /github/collaborating-with-issues-and-pull-requests/about-comparing-branches-in-pull-requests
@@ -10,8 +10,7 @@ versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
-topics:
-  - Pull requests
+  topic:- Pull requests
 shortTitle: Compare branches
 ---
 {% note %}
